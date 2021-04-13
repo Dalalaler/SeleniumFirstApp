@@ -2,6 +2,7 @@ package com.company.browsertests;
 
 public class TestManager {
     private static TestManager instance;
+
     private  TestManager() {
 
     }
